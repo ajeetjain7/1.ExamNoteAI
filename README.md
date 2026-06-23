@@ -75,28 +75,9 @@ The platform provides an intuitive interface for students and professionals to q
 ## 📁 Project Structure
 
 
-ExamNoteAI/
-├── client/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── context/
-│ │ ├── utils/
-│ │ └── styles/
-│ └── package.json
-│
-├── server/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ ├── middleware/
-│ ├── services/
-│ ├── config/
-│ └── package.json
-│
-├── .env.example
-├── .gitignore
-└── README.md
+<img width="568" height="617" alt="image" src="https://github.com/user-attachments/assets/41b85e0f-ce8f-46cc-9b3a-88498def2997" />
+
+
 
 
 ---
@@ -153,20 +134,8 @@ Enter topic
 Generate AI notes
 Export as PDF
 View visualizations (charts / diagrams)
-🔧 API Endpoints
-Auth
-POST /api/auth/register
-POST /api/auth/login
-GET /api/auth/verify
-Notes
-POST /api/notes/generate
-GET /api/notes
-GET /api/notes/:id
-Visualization
-POST /api/visualization/chart
-POST /api/visualization/mermaid
-PDF
-POST /api/pdf/generate
+
+
 🤝 Contributing
 Fork repo
 Create branch
