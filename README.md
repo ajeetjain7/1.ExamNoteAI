@@ -65,7 +65,6 @@ The platform provides an intuitive interface for students and professionals to q
 
 ### AI Integration
 - OpenAI API
-- LangChain
 
 ### Deployment
 - Render
